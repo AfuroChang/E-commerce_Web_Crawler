@@ -1,12 +1,13 @@
 # E-commerce_Web_Crawler
 This repo is for my course **Big Data Analysis** in NTUST.
 
-## Install package
+## Installing
 ```
-import pandas as pd
-from bs4 import BeautifulSoup
-import requests
-import re
-import os
-from tqdm import tqdm
+pip install pandas
+pip install bs4
+pip install requests
+pip install re
+Pip istall os
+pip install tqdm
+pip install fake_useragent
 ```
